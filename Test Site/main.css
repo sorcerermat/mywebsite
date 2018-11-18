@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+#one {
+    height: 50vh;
+    background-color: #ff4554;
+    display: block;
+}
+
+#two {
+    display: block;
+    height: 50vh;
+    background-color: #00c3e3;
+}
